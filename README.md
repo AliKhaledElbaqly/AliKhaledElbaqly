@@ -135,6 +135,8 @@ Ali Khaled
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&width=600&lines=No+Vercel+Alternative!!!!;FREE+PALESTINE)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=20&color=ff4000&center=true&width=600&lines=This+is+not+just+a+resume;It’s+my+personal+space+to+express;My+Interest;My+Values;My+Humanity)](https://git.io/typing-svg)
+
 </div>
 
 <p align="center">
