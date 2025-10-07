@@ -15,19 +15,19 @@
 ![Learning](https://img.shields.io/badge/Status-%20Learning%20Never%20Stop-blue)
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1300&color=00BFFF&center=true&width=1000&lines=Hey+there!+I'm+Ali+Khaled+Albaqly👋;Aspiring+DevOps+Student+%7C+Cloud+Learner+%7C+Automation+Enthusiast;Experimenting+and+Growing+Everyday!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1300&color=00BFFF&center=true&width=1000&lines=Hello,+there!+I'm+Ali+Khaled+Albaqly👋;Aspiring+DevOps+Student+%7C+Cloud+Learner+%7C+Automation+Enthusiast;Experimenting+and+Growing+Everyday!)](https://git.io/typing-svg)
 
 </div>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="mailto:alialbaqly@gmail.com"><img width="100px" alt="Email" title="Contact via Email" src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
+  <a href="mailto:alialbaqly@gmail.com"><img width="30px" alt="Email" title="Contact via Email" src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
        
-  <a href="https://github.com/AliKhaledElbaqly"><img width="100px" alt="GitHub" title="GitHub Profile" src="https://github.com/AliKhaledElbaqly/AliKhaledElbaqly/blob/main/Github-desktop-logo-symbol.svg.png?raw=true"/></a>
+  <a href="https://github.com/AliKhaledElbaqly"><img width="30px" alt="GitHub" title="GitHub Profile" src="https://github.com/AliKhaledElbaqly/AliKhaledElbaqly/blob/main/Github-desktop-logo-symbol.svg.png?raw=true"/></a>
        
-  <a href="https://www.linkedin.com/in/alialbaqly/"><img width="100px" alt="LinkedIn" title="LinkedIn Profile" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/alialbaqly/"><img width="30px" alt="LinkedIn" title="LinkedIn Profile" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
        
-  <a href="https://alikhaled.info/"><img width="100px" alt="Portfolio" title="Portfolio Website" src="https://img.icons8.com/ios-filled/50/000000/user.png"/></a>
+  <a href="https://alikhaled.info/"><img width="30px" alt="Portfolio" title="Portfolio Website" src="https://img.icons8.com/ios-filled/50/000000/user.png"/></a>
 </p>
 
 ---
