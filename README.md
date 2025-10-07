@@ -20,6 +20,17 @@
 
 </div>
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="mailto:alialbaqly@gmail.com"><img width="100px" alt="Email" title="Contact via Email" src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
+       
+  <a href="https://github.com/AliKhaledElbaqly"><img width="100px" alt="GitHub" title="GitHub Profile" src="https://github.com/AliKhaledElbaqly/AliKhaledElbaqly/blob/main/Github-desktop-logo-symbol.svg.png?raw=true"/></a>
+       
+  <a href="https://www.linkedin.com/in/alialbaqly/"><img width="100px" alt="LinkedIn" title="LinkedIn Profile" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+       
+  <a href="https://alikhaled.info/"><img width="100px" alt="Portfolio" title="Portfolio Website" src="https://img.icons8.com/ios-filled/50/000000/user.png"/></a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
