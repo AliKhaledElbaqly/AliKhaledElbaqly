@@ -61,7 +61,7 @@
 | 📊 Monitoring (Prometheus, Grafana) | Hands-on experiments             |
 | 🏗 Terraform                  | Building Infrastructure in AWS labs|
 | 🧾 Ansible                    | Basic playbooks and roles        |
-| 🐳 Containers (Docker, K8s)   | Intermediate knowledge           |
+| 🐳 Containers (Docker, Kubernetes) – Intermediate in Docker & Kubernetes; familiar with Nomad’s lightweight orchestration model and startup friendly simplicity. |
 
 ---
 
