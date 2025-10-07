@@ -36,8 +36,8 @@
 ## 👨‍💻 About Me
 
 - 🚀 **Aspiring DevOps Engineer** — Experimenting, Learning, and Growing Every Day
-- 🐧 Comfortable with **Linux & Bash scripting** 
-   - With Solid Understanding, demonstrated by completing the LFS101 course. Certified by [The Linux Foundation – (LFS101).](https://www.credly.com/badges/df549ae5-38e5-481b-be35-214067e0675e/public_url)
+- 🐧 Comfortable with **Linux & Bash scripting** [**Hands on Lab**](https://github.com/AliKhaledElbaqly/bash-scripting) 
+   - Solid Understanding, demonstrated by completing the LFS101 course. Certified by [The Linux Foundation – (LFS101).](https://www.credly.com/badges/df549ae5-38e5-481b-be35-214067e0675e/public_url)
 - 🐍 Actively learning **Python** through hands-on projects
 - ☁️ Exploring **AWS Cloud** concepts with AWS Certified Cloud Practitioner foundation and hands-on labs
 - 🛠 Experience with:
