@@ -1,17 +1,10 @@
 ![Linux](https://img.shields.io/badge/OS-Linux-lightgrey?logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Beginner-yellow?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Scripting-Bash-blue?logo=gnu-bash&logoColor=white)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-orange?logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-blue?logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Package-Helm-lightblue?logo=helm&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Infra-Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Automation-Ansible%20Intermediate-EE0000?logo=ansible&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins-red?logo=jenkins&logoColor=white)
 ![Monitoring](https://img.shields.io/badge/Monitoring-Prometheus-orange?logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Monitoring-Grafana-F46800?logo=grafana&logoColor=white)
-![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-181717?logo=github&logoColor=white)
-![Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-Linux%20OS-00BFFF?logo=linuxfoundation&logoColor=white)
-![LFS162](https://img.shields.io/badge/Linux%20Foundation-DevOps&SRE%20LFS162-007ACC?logo=linuxfoundation&logoColor=white)
 ![Learning](https://img.shields.io/badge/Status-%20Learning%20Never%20Stop-blue)
 <div align="center">
 
@@ -31,6 +24,7 @@
 </p>
 
 ---
+
 
 ## 👨‍💻 About Me
 
@@ -52,16 +46,25 @@
 
 ## 🛠 Tech Stack I’m Exploring
 
-| Tools & Technology              | Proficiency Level                  |
-|--------------------------------|----------------------------------|
-| 🐍 Python                      | Beginner – learning by doing     |
-| 🐧 Linux & Bash                | Comfortable with CLI & scripting |
-| ☁️ AWS                        | Foundational knowledge & small deployments |
-| 🧩 CI/CD (Jenkins, GitHub Actions) | Learning pipeline setup & automation |
-| 📊 Monitoring (Prometheus, Grafana) | Hands-on experiments             |
-| 🏗 Terraform                  | Building Infrastructure in AWS labs|
-| 🧾 Ansible                    | Basic playbooks and roles        |
-| 🐳 Containers (Docker, Kubernetes) – Intermediate in Docker & Kubernetes; familiar with Nomad’s lightweight orchestration model and startup friendly simplicity. |
+| Category | Tools & Focus |
+|-----------|----------------|
+| 🐧 **OS & Scripting** | Linux (comfortable with CLI), Bash (automation scripts), Python (beginner – learning by doing) |
+| ☁️ **Cloud** | AWS (foundational knowledge, small deployments) |
+| ⚙️ **Infrastructure as Code (IaC)** | Terraform (AWS labs), Ansible (basic playbooks and roles) |
+| 🧩 **CI/CD & Automation** | Jenkins, GitHub Actions (building pipelines and automations) |
+| 🐳 **Containers & Orchestration** | Docker & Kubernetes (intermediate), Nomad (lightweight orchestration model) |
+| 📊 **Observability & Monitoring** | Prometheus, Grafana (hands-on experiments) |
+|
+
+
+
+
+![Python](https://img.shields.io/badge/Python-Beginner-yellow?logo=python&logoColor=white)
+![Helm](https://img.shields.io/badge/Package-Helm-lightblue?logo=helm&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins-red?logo=jenkins&logoColor=white)
+![Grafana](https://img.shields.io/badge/Monitoring-Grafana-F46800?logo=grafana&logoColor=white)
+![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-181717?logo=github&logoColor=white)
+![LFS162](https://img.shields.io/badge/Linux%20Foundation-DevOps&SRE%20LFS162-007ACC?logo=linuxfoundation&logoColor=white)
 
 ---
 
@@ -81,26 +84,27 @@
 
 ---
 
-## 🚧 Currently Working On
+## 💡 Learning Journey
+####  🧠 Currently learning... 
+   - Building scalable Kubernetes deployments with Helm charts for microservices
+   - Automating infrastructure using Terraform on AWS
+   - Creating end-to-end CI/CD pipelines integrating Jenkins and GitHub Actions
+   - Developing monitoring dashboards with Prometheus and Grafana
 
-- Building scalable Kubernetes deployments with Helm charts for microservices
-- Automating infrastructure using Terraform on AWS
-- Creating end-to-end CI/CD pipelines integrating Jenkins and GitHub Actions
-- Developing monitoring dashboards with Prometheus and Grafana
+#### 🎯 Next Goals
+   - Gain hands-on experience with real-world DevOps projects
+   - Master Kubernetes and Helm charts step-by-step
+   - Deep dive into CI/CD pipelines in complex environments
+   - Design and implement comprehensive monitoring solutions
+   - Advance skills in automation and Infrastructure as Code
+   - Explore modern IaC tools such as **OpenTofu** and **AWS CloudFormation**
+   - Learn container alternatives like **Podman** and compare with Docker
+   - Expand observability knowledge with **OpenTelemetry**
+   - Obtain knowledge in OpenShift platform
+   - Learn SAP, RCA, and System Mapping concepts (planned Dec 2025)
+   - Transition towards a software developer mindset gradually
+   - Explore AI applications in DevOps and automation
 
----
-
-## 💡 Future Goals
-
-- Gain hands-on experience with real-world DevOps projects
-- Master Kubernetes and Helm charts step-by-step
-- Deep dive into CI/CD pipelines in complex environments
-- Design and implement comprehensive monitoring solutions
-- Advance skills in automation and Infrastructure as Code
-- Obtain knowledge in OpenShift platform
-- Learn SAP, RCA, and System Mapping concepts (planned Dec 2025)
-- Transition towards a software developer mindset gradually
-- Explore AI applications in DevOps and automation
 
 ---
 
@@ -123,29 +127,22 @@
 
 ---
 
-<p align="center"><b>🌍 DevOps Learning Journey — My Humble and Lovely Journey</b></p>
+<p align="center"><b>🌍 DevOps Learning Journey — Always Learning, Always Building.</b></p>
 
 Ali Khaled  
 🚀 DevOps Student | ☁️ Cloud & Automation Enthusiast 💬 Learning one container at a time!
 
----
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&width=600&lines=No+Vercel+Alternative!!!!;FREE+PALESTINE)](https://git.io/typing-svg)
+---
+ **Free Palestine** — Humanity Matters
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=20&color=ff4000&center=true&width=600&lines=This+is+not+just+a+resume;It’s+my+personal+space+to+express;My+Interest;My+Values;My+Humanity)](https://git.io/typing-svg)
 
 </div>
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHE3bXlhMXh0ZW5jejlzdG85ajVtaGxkNXBqenk1NGt1YWNxMGEzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OG2mixKM4BKsFOpMMv/giphy.gif" alt="Ali Khaled DevOps Banner" width="100%" />
-</p>
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9mMGtsYTkzcGs0NXR0N2lvOWZ0eXd0aTMxdDJkNjV6eWZ1YW1vNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bmEURUdl5ro5yTIeLu/giphy.gif" alt="Ali Khaled DevOps Banner" width="100%" />
-</p>
-
-<h1 align="center">
+<h2 align="center">
   Thanks For Visiting My Humble Profile, Take Care of Yourself
   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" alt="wave">
-</h1>
+</h2>
