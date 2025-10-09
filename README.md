@@ -91,17 +91,17 @@
    - Creating end-to-end CI/CD pipelines integrating Jenkins and GitHub Actions
    - Developing monitoring dashboards with Prometheus and Grafana
 
-#### 🎯 Next Goals
+#### 🎯 Next Goals by priority
    - Gain hands-on experience with real-world DevOps projects
    - Master Kubernetes and Helm charts step-by-step
-   - Deep dive into CI/CD pipelines in complex environments
-   - Design and implement comprehensive monitoring solutions
-   - Advance skills in automation and Infrastructure as Code
-   - Explore modern IaC tools such as **OpenTofu** and **AWS CloudFormation**
-   - Learn container alternatives like **Podman** and compare with Docker
-   - Expand observability knowledge with **OpenTelemetry**
    - Obtain knowledge in OpenShift platform
+   - Deep dive into CI/CD pipelines in complex environments,learn Intros about ArgoCD and Dagger the code CI future.
+   - Advance skills in automation and Infrastructure as Code
+   - Learn container alternatives like **Podman** and compare with Docker
    - Learn SAP, RCA, and System Mapping concepts (planned Dec 2025)
+   - Explore modern IaC tools such as **OpenTofu** and **AWS CloudFormation**
+   - Design and implement comprehensive monitoring solutions
+   - Expand observability knowledge with **OpenTelemetry**
    - Transition towards a software developer mindset gradually
    - Explore AI applications in DevOps and automation
 
@@ -136,8 +136,6 @@ Ali Khaled
 <div align="center">
 
 ---
- **Free Palestine** — Humanity Matters
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=20&color=ff4000&center=true&width=600&lines=This+is+not+just+a+resume;It’s+my+personal+space+to+express;My+Interest;My+Values;My+Humanity)](https://git.io/typing-svg)
 
 </div>
