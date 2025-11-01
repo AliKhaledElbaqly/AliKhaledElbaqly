@@ -3,7 +3,7 @@
 ![AWS](https://img.shields.io/badge/Cloud-AWS-orange?logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-blue?logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Infra-Terraform-7B42BC?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Automation-Ansible%20Intermediate-EE0000?logo=ansible&logoColor=white)
+![Ansible](https://img.shields.io/badge/Automation-Ansible-EE0000?logo=ansible&logoColor=white)
 ![Monitoring](https://img.shields.io/badge/Monitoring-Prometheus-orange?logo=prometheus&logoColor=white)
 ![Learning](https://img.shields.io/badge/Status-%20Learning%20Never%20Stop-blue)
 <div align="center">
